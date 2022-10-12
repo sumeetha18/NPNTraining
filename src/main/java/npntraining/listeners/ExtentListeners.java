@@ -62,6 +62,5 @@ public class ExtentListeners implements ITestListener{
 			extent.flush();
 		}
 	}
-	//commit and push
-	//added a new line
+	
 }
